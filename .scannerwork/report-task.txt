@@ -1,0 +1,7 @@
+organization=arkcoredevelop
+projectKey=arkcoredeveloper
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.2461
+dashboardUrl=https://sonarcloud.io/dashboard?id=arkcoredeveloper
+ceTaskId=AW5Fpxu4_ig92UjGKpLJ
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW5Fpxu4_ig92UjGKpLJ
